@@ -26,9 +26,3 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 4. Open the VSCode command palette
 5. Search and run "Select TypeScript version" -> "Use workspace version"
 # game2021-app
-# game2021-app
-# game2021-app
-# game2021-app
-# game2021-app
-# game2021-app
-# game2021-app
